@@ -18,7 +18,8 @@ npx react-native run-windows
 
 
 ## Local certificate issue
-While installing certificate Select "Local Machine", and then selected "Trusted Root Certification Authorities <br />
+While installing certificate Select "Local Machine", and then selected "Trusted Root Certification Authorities 
+<br />
 [Ref](https://stackoverflow.com/questions/23812471/installing-appx-without-trusted-certificate#comment83694631_24372483)
 
 ## Build / Deploy <br />
